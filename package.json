@@ -1,0 +1,13 @@
+{
+    "name": "plop-node",
+    "version": "0.0.1",
+    "description": "",
+    "license": "ISC",
+    "keywords": [],
+    "collaborators": [
+        "Héctor Menéndez <hector@gik.mx>"
+    ],
+    "main": "index.js",
+    "scripts": {
+    }
+}
