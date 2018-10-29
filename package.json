@@ -1,13 +1,16 @@
 {
-    "name": "plop-node",
+    "name": "@gik/hygen-node",
     "version": "0.0.1",
-    "description": "",
+    "description": "A scaffolder for our node projects",
     "license": "ISC",
     "keywords": [],
     "collaborators": [
         "Héctor Menéndez <hector@gik.mx>"
     ],
     "main": "index.js",
-    "scripts": {
+    "scripts": {},
+    "devDependencies": {
+        "@gik/eslint-config": "0.0.9",
+        "eslint": "^5.8.0"
     }
 }
