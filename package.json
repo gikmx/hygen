@@ -1,7 +1,7 @@
 {
-    "name": "@gik/hygen-node",
+    "name": "@gik/hygen",
     "version": "0.0.1",
-    "description": "A scaffolder for our node projects",
+    "description": "The scaffolder we use on our projects.",
     "license": "ISC",
     "keywords": [],
     "collaborators": [

@@ -1,0 +1,7 @@
+{
+    "extends": [
+        "@gik/node"
+    ],
+    "rules": {
+    }
+}
