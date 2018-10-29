@@ -7,8 +7,15 @@
     "collaborators": [
         "Héctor Menéndez <hector@gik.mx>"
     ],
+    "repository": "https://github.com/gikmx/hygen",
     "main": "index.js",
+    "bin": {
+        "hygen": "./bin/hygen.js"
+    },
     "scripts": {},
+    "dependencies": {
+        "hygen": "^1.6.2"
+    },
     "devDependencies": {
         "@gik/eslint-config": "0.0.9",
         "eslint": "^5.8.0"
