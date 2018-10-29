@@ -1,3 +1,6 @@
+---
+to: package.json
+---
 {
     "name": "<%= name %>",
     "version": "0.0.1",

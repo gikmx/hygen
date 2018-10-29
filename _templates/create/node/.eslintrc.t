@@ -1,3 +1,6 @@
+---
+to: .eslintrc
+---
 {
     "extends": [
         "@gik/node"

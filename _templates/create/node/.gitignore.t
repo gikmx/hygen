@@ -1,3 +1,6 @@
+---
+to: .gitignore
+---
 node_modules/
 _templates/
 

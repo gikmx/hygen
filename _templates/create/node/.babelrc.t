@@ -1,3 +1,6 @@
+---
+to: .babelrc
+---
 {
     "presets": [
         ["@babel/env", { "targets": { "node": "current" } }]
